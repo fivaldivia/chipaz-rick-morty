@@ -22,6 +22,6 @@ def main():
     char_counter_json = { "exercise_name": "Char counter","time": execution_time,
         "in_time": in_time,"results":results_char_counter}
     results.append(char_counter_json)
-        
+
 if __name__ == "__main__":
     main()
